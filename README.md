@@ -30,3 +30,6 @@ For a link to information about the day, see the UMN Day-of-Data [website](https
     - Moran's I (Global)
     - Visually check result
 4. Use Moran's I to determine which AirBnB variables have high levels of spatial autocorrelation
+
+### Data
+Data files are from GeoDa Data and Lab files ([details](https://geodacenter.github.io/data-and-lab//airbnb_Chicago-2015/)).
