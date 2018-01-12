@@ -7,7 +7,9 @@ University of Minnesota Day of Data
 
 Bryan C. Runck // runck014@umn.edu // Department of Geography, Environment and Society
 
-Overview How can we use python to do spatial data science? This jam session will provide a hands-on overview of basic mapping in Python with GeoPandas and how to perform basic spatial analysis using PySAL. No programming experience is required.
+### Overview 
+
+How can we use python to do spatial data science? This jam session will provide a hands-on overview of basic mapping in Python with GeoPandas and how to perform basic spatial analysis using PySAL. No programming experience is required.
 
 
 For a link to information about the day, see the UMN Day-of-Data [website](https://sites.google.com/umn.edu/umndayofdata2018/).
