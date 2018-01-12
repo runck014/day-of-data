@@ -14,6 +14,9 @@ How can we use python to do spatial data science? This jam session will provide 
 
 For a link to information about the day, see the UMN Day-of-Data [website](https://sites.google.com/umn.edu/umndayofdata2018/).
 
+### Supporting Information
+[Slides](https://docs.google.com/presentation/d/1_RuL1EHp7sOn5yLnCuBqRWW8eGo-Z8YemyEzjS2KpXU/edit?usp=sharing) (link to slides)
+
 ### Objectives
 1. Make simple maps with [GeoPandas](http://geopandas.org) and AirBnB data
     - Data I/O
