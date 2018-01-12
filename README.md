@@ -4,7 +4,9 @@
 01.12.18 - Notebook provides basic introduction to spatial data science in python for UMN Day of Data 2018
 
 University of Minnesota Day of Data
+
 Bryan C. Runck // runck014@umn.edu // Department of Geography, Environment and Society
+
 Overview How can we use python to do spatial data science? This jam session will provide a hands-on overview of basic mapping in Python with GeoPandas and how to perform basic spatial analysis using PySAL. No programming experience is required.
 
 
