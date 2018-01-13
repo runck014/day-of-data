@@ -1,4 +1,4 @@
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/runck014/day-of-data/master?filepath=getting-started-spatial-data.ipynb)
 
 # Getting Started with Spatial Data Science in Python
 01.12.18 - Notebook provides basic introduction to spatial data science in python for UMN Day of Data 2018
